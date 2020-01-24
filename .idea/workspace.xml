@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dbed7ef-cc9c-4828-833c-7df0caf1d0ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="28eb8ae9-cb84-4da1-92f9-6c23b29ac823" />
+  <component name="ProjectId" id="1WpJt9uj9MI1lzmy2gnrEfvjsOj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="opencv_py" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencv_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv_py.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.opencv_py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dbed7ef-cc9c-4828-833c-7df0caf1d0ed" name="Default Changelist" comment="" />
+      <created>1579840815017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579840815017</updated>
+      <workItem from="1579840826764" duration="411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="223" key="#Notifications" timestamp="1579841085521">
+      <screen x="0" y="23" width="1792" height="1066" />
+    </state>
+    <state x="496" y="223" key="#Notifications/0.23.1792.1066@0.23.1792.1066" timestamp="1579841085521" />
+    <state x="683" y="319" key="FileChooserDialogImpl" timestamp="1579841232913">
+      <screen x="0" y="23" width="1792" height="1066" />
+    </state>
+    <state x="683" y="319" key="FileChooserDialogImpl/0.23.1792.1066@0.23.1792.1066" timestamp="1579841232913" />
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom" timestamp="1579841237825">
+      <screen x="0" y="23" width="1792" height="1066" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.23.1792.1066@0.23.1792.1066" timestamp="1579841237825" />
+    <state width="1358" height="271" key="GridCell.Tab.0.center" timestamp="1579841237825">
+      <screen x="0" y="23" width="1792" height="1066" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.center/0.23.1792.1066@0.23.1792.1066" timestamp="1579841237825" />
+    <state width="1358" height="271" key="GridCell.Tab.0.left" timestamp="1579841237825">
+      <screen x="0" y="23" width="1792" height="1066" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.left/0.23.1792.1066@0.23.1792.1066" timestamp="1579841237825" />
+    <state width="1358" height="271" key="GridCell.Tab.0.right" timestamp="1579841237825">
+      <screen x="0" y="23" width="1792" height="1066" />
+    </state>
+    <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.1792.1066@0.23.1792.1066" timestamp="1579841237825" />
+    <state x="397" y="195" key="SettingsEditor" timestamp="1579841234592">
+      <screen x="0" y="23" width="1792" height="1066" />
+    </state>
+    <state x="397" y="195" key="SettingsEditor/0.23.1792.1066@0.23.1792.1066" timestamp="1579841234592" />
+    <state x="573" y="388" key="com.intellij.ide.util.TipDialog" timestamp="1579840867749">
+      <screen x="0" y="23" width="1792" height="1066" />
+    </state>
+    <state x="573" y="388" key="com.intellij.ide.util.TipDialog/0.23.1792.1066@0.23.1792.1066" timestamp="1579840867749" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/opencv_practice$opencv_py.coverage" NAME="opencv_py Coverage Results" MODIFIED="1579841001689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
